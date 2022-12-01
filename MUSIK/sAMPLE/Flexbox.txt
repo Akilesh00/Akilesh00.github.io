@@ -1,0 +1,22 @@
+<div class="eventbox">
+                <div class="eboxr1">
+                    <h5>Time</h5>
+                    <h5>Content</h5>
+                    <h5>Singers</h5>
+                </div>
+                <div class="eboxr2">
+                    <p>11:00 AM to 12:00 PM</p>
+                    <p>Vestibulum vel eros vel metus lacinia feugiat a nec metus. </p>
+                    <div class="singers1">
+                        <img src="Images/EventboxSingers/S1.png" alt="0">
+                        <h class="singertext">Yui Ronald</h>
+                        <p>Booth <span>2F12</span></p>
+                    </div>
+                    <div class="eventboxc4">
+                        <h class="singertext">Preview</h>
+                        <img src="Icons/play.png" alt="0">
+                    </div>
+                </div>
+                
+
+            </div>
